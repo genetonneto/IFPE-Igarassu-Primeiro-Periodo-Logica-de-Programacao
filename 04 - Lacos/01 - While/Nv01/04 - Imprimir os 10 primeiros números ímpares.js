@@ -1,4 +1,4 @@
-// imprimir os 10 primeiros números ímpares;
+// Imprimir os 10 primeiros números ímpares;
 
 /* 
 let nImpares = 1;

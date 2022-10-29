@@ -1,4 +1,4 @@
-// imprimir os números entre 0 e 25 em ordem decrescente
+// Imprimir os números entre 0 e 25 em ordem decrescente
 
 let numero = 24;
 

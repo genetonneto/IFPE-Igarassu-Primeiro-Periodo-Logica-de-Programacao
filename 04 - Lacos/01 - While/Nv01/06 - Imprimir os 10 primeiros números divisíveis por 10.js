@@ -1,4 +1,4 @@
-// imprimir os 10 primeiros números divisíveis por 10
+// Imprimir os 10 primeiros números divisíveis por 10
 /* 
 let numero = 0;
 
