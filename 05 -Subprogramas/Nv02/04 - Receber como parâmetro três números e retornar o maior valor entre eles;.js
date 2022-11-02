@@ -2,12 +2,12 @@
 
 function numeros(n1,n2,n3){
 	if (n1 > n2 && n1 > n3){
-		console.log(n1)
+		return n1;
 	} else if (n2 > n1 && n2 > n3){
-		console.log(n2)
+		return n2;
 	} else {
-		console.log(n3)
+		return n3;
 	}
 }
-
-numeros(7,5,9)
+let resultado = numeros(7,5,9);
+console.log(resultado);
